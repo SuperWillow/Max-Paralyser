@@ -8,9 +8,9 @@ An extension that removes google AI overview and blocks AI websites by replacing
 ## Configuration
 1. Clone the repository
 
-2. Modify banned pages from data/banned_list.json
+2. Modify banned pages from data/banned_list.json (or leave it as is)
 
-3. Modify possible random URLS for pages from data/url_list.json
+3. Modify possible random URLS for pages from data/url_list.json (or leave it as is)
 
 4. Load the extension within your browser
 

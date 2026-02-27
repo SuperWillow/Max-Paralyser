@@ -13,7 +13,6 @@
       "32": "img/icon_32.png",
       "64": "img/icon_64.png"
     },
-         -- Takeout from https://github.com/gorhill/uBlock/tree/master
          
     "web_accessible_resources": [
         {

@@ -2,7 +2,7 @@
 My first browser extension that paralyzes a Russian shitty messenger site made of shit and sticks, replacing links to content related to Rez Infinite and old ICQ.
 
 # Demo
-![maxparalyzer_demo](https://github.com/user-attachments/assets/e8fb3392-3fdf-4912-8fb9-b87f08cbd5cf)
+![demo](https://github.com/user-attachments/assets/e8fb3392-3fdf-4912-8fb9-b87f08cbd5cf)
 
 ## Features
 + Disable google AI preview.

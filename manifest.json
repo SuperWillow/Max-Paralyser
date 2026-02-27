@@ -5,7 +5,7 @@
     "description": "Расширение, которое парализирует контент, связанный с тупым мессенджером, заменяв ссылки на контент, связанный с Rez Infinite и старым ICQ.",
     "permissions": ["tabs", "scripting", "*://*://*"],
     "background": {
-        "service_worker": "js/background.js"
+        "service_worker": "js/background.js",
          
     "web_accessible_resources": [
         {

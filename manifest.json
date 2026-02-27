@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "AI Detoxifier",
+    "name": "Max Paralyser",
     "version": "1.0.0",
-    "description": "An extension that removes google AI overview and blocks AI websites by replacing them with random links.",
+    "description": "Расширение, которое парализирует контент, связанный с тупым мессенджером, заменяв ссылки на контент, связанный с Rez Infinite и старым ICQ.",
     "permissions": ["tabs", "scripting", "*://*://*"],
     "background": {
         "service_worker": "js/background.js"

@@ -7,8 +7,7 @@ My first browser extension that paralyzes a Russian shitty messenger site made o
 ![maxparalyzer_demo](https://github.com/user-attachments/assets/ad5e1d04-d4e0-4b5e-be53-32005b0dba86)
 
 ## Features
-+ Disable google AI preview.
-+ Redirect AI pages to a random url selected from the possible URLS.
++ Redirect this shit to Rez Infinite and old ICQ-related content.
 
 ## Configuration
 1. Clone the repository

@@ -1,5 +1,5 @@
-# AI Detoxifier
-An extension that removes google AI overview and blocks AI websites by replacing them with configurable random links (Touhou songs by default).
+# Max Paralyser
+My first browser extension that paralyzes a Russian shitty messenger site made of shit and sticks, replacing links to content related to Rez Infinite and old ICQ.
 
 ## Features
 + Disable google AI preview.

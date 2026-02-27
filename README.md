@@ -1,6 +1,6 @@
 ![https://github.com/oAGoulart/awesome-nollm/raw/main/badge.png](https://github.com/oAGoulart/awesome-nollm/raw/main/badge.png)
 # Max Paralyser
-<img width="1800" height="600" alt="maxparalyzer_icon" src="https://github.com/user-attachments/assets/6e994c42-bb3e-4930-9d78-bbf4021a51a8" />
+<img width="1800" height="300" alt="maxparalyzer_icon" src="https://github.com/user-attachments/assets/6e994c42-bb3e-4930-9d78-bbf4021a51a8" />
 My first browser extension that paralyzes a Russian shitty messenger site made of shit and sticks, replacing links to content related to Rez Infinite and old ICQ.
 
 # Demo
